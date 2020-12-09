@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="button_take_photo">Button take photo</string>
+    <string name="button_switch_camera_front_back">Button switch camera front back</string>
+    <string name="button_recording_video">Button recording video</string>
+    <string name="image_view_circle_show_video_recoding_process">ImageView circle show video recoding process</string>
+</resources>
